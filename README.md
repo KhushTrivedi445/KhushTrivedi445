@@ -228,85 +228,27 @@ Enabled real-time stock levels, product categorization, and seamless warehouse s
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Award / Honor | Organization / Event | Milestone / Rank |
-| :---: | :---: | :---: |
-| **Google Student Ambassador Selection** | Google | GID: 8969 Candidate |
-| **TechFest zone Ambassador Appreciation** | IIT Bombay | Rank under 20,000 |
-| **HackOvate Hackathon** | HackOvate | Rapid prototype completion |
-| **Mind Sprint Hackathon** | Unstop | AI backend track competitor |
-| **Academic Honor (CGPA: 9.33 / 10.0)** | New LJ Institute of Engineering and Technology | Academic Excellence |
-
-</div>
 
 ---
 
-## 📜 Certifications
 
-#### 🌐 NPTEL
-* <a href="https://nptel.ac.in/"><img src="https://img.shields.io/badge/Certification-Natural%20Language%20Processing-7209b7?style=for-the-badge&logo=education&logoColor=white" alt="NPTEL Cert" /></a>
-
-#### 🎓 Coursera
-* <a href="https://www.coursera.org/"><img src="https://img.shields.io/badge/Certification-Introduction%20to%20Data%20Science%20(U%20of%20Michigan)-3f37c9?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Cert" /></a>
-
-#### 🏫 University (New LJ Institute of Engineering and Technology)
-* <a href="https://newljiet.edu.in/"><img src="https://img.shields.io/badge/Certification-Advanced%20OOP%20using%20Python-4361ee?style=for-the-badge&logo=python&logoColor=white" alt="University Cert" /></a>
-
-#### ☁️ AWS (Specialized Focus)
-* <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner%20(In%20Progress)-7209b7?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Progress" /></a>
-
-#### 🟩 Google Cloud (Specialized Focus)
-* <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer%20(In%20Progress)-3f37c9?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Progress" /></a>
-
-#### 🔴 Oracle (Specialized Focus)
-* <a href="https://www.oracle.com/"><img src="https://img.shields.io/badge/Oracle-Database%20Administration%20(Specialized%20Study)-4361ee?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Progress" /></a>
-
-#### 🔵 Cisco (Specialized Focus)
-* <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/Cisco-Networking%20Essentials%20(Specialized%20Study)-4cc9f0?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Progress" /></a>
-
----
 
 ## 💻 Coding Profiles
 
 <div align="center">
   <a href="https://leetcode.com/u/KhushTrivedi445/"><img src="https://img.shields.io/badge/LeetCode-KhushTrivedi445-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/techkhush445/"><img src="https://img.shields.io/badge/GeeksforGeeks-KhushTrivedi445-298d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/khushtrivedi"><img src="https://img.shields.io/badge/CodeChef-KhushTrivedi445-5b4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" /></a>
-  
-  <br />
-  <br />
-  
-  <a href="https://www.hackerrank.com/profile/techkhush445"><img src="https://img.shields.io/badge/HackerRank-KhushTrivedi445-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" /></a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/KhushTrivedi445"><img src="https://img.shields.io/badge/Codeforces-KhushTrivedi445-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" /></a>
-</div>
-
+ 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushTrivedi445&show_icons=true&title_color=7209b7&icon_color=4cc9f0&text_color=ffffff&bg_color=0f0f1b&hide_border=true" alt="Khush's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushTrivedi445&layout=compact&title_color=7209b7&icon_color=4cc9f0&text_color=ffffff&bg_color=0f0f1b&hide_border=true" alt="Top Languages" />
-  <br />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushTrivedi445&background=0f0f1b&ring=7209b7&fire=f72585&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophy
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.herokuapp.com/?username=KhushTrivedi445&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</div>
 
 ---
 
@@ -338,23 +280,31 @@ Enabled real-time stock levels, product categorization, and seamless warehouse s
 
 ```yaml
 learning:
-  - "Advanced Agentic Workflows (LangGraph state machines)"
-  - "Distributed LLM serving pipelines"
+  - "System Design for scalable backend applications"
+  - "Natural Language Processing (NLP)"
+  - "Advanced Agentic AI Workflows with LangGraph"
+
 building:
-  - "DocTalk enterprise extensions & high-throughput PDF parsers"
-  - "Advanced real-time object tracking platforms using YOLO"
+  - "Spatial Domain AI Project for intelligent spatial analysis and AI-powered automation"
+  - "Scalable AI-powered Parking Management System using YOLO and FastAPI"
+
 researching:
-  - "Vector embeddings optimization for multi-lingual document retrieval"
-  - "Context window compression techniques for long-form QA"
+  - "Retrieval-Augmented Generation (RAG) optimization techniques"
+  - "Efficient vector databases and embedding strategies for semantic search"
+  - "Prompt engineering techniques for reliable LLM applications"
+
 currently:
-  - "Completing Computer Science Engineering with specialization in AI/ML"
+  - "B.E. in Computer Science Engineering (AI & ML) | CGPA: 9.33"
+  - "Building production-ready AI applications with FastAPI, LangChain, and LLMs"
+
 open_to:
   - "AI Engineer"
-  - "ML Engineer"
+  - "Machine Learning Engineer"
   - "Software Engineer"
   - "Backend Engineer"
-  - "GenAI Engineer"
+  - "Generative AI Engineer"
 ```
+
 
 ---
 
@@ -370,7 +320,7 @@ open_to:
   <a href="https://github.com/KhushTrivedi445"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7209b7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Button" /></a>
 </div>
 
----
+
 
 <div align="center">
   <br />

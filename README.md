@@ -203,30 +203,6 @@ Enabled real-time stock levels, product categorization, and seamless warehouse s
 
 ---
 
-## 💼 Experience
-
-#### 📌 Google Student Ambassador (GID: 8969)
-**Google** | *2024 - Present*
-* Coordinated campus development workshops focused on AI/ML applications, Cloud computing, and Google tools.
-* Empowered peers by sharing opportunities for open-source contributions and global coding initiatives.
-* Selected among global candidates to lead the university tech group ecosystem.
-* `Community Leadership` `Tech Workshops` `Google Technologies` `Open Source`
-
-#### 📌 College Ambassador
-**TechFest, IIT Bombay** | *2024*
-* Promoted Asia's largest science and technology festival within GTU zone campuses.
-* Spearheaded registration campaigns and technical problem-solving event enrollments.
-* Ranked under 20,000 ambassadors, earning a Certificate of Appreciation for leadership and execution.
-* `Public Relations` `Event Coordination` `Strategic Communication`
-
-#### 📌 Hackathon Competitor & Technical Innovator
-**HackOvate & Mind Sprint Hackathon (Unstop)** | *2024*
-* Collaborated in sprint development teams to ideate, prototype, and build MVP applications.
-* Implemented FastAPI REST architectures and LLM prompt optimization rules within tight timelines.
-* Tested pipeline fallbacks under live evaluation scenarios.
-* `Rapid Prototyping` `AI Integration` `Agile Development` `Team Collaboration`
-
----
 
 
 ---
